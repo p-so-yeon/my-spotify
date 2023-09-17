@@ -1,0 +1,40 @@
+.email {
+  font-weight: bold;
+}
+.fcbtn {
+  background: #3b5998;
+  width: 200px;
+  color: white;
+  border-radius: 50px;
+  width: 312px;
+  height: 48px;
+}
+.gbtn {
+  margin-top: 22px;
+  background: white;
+  color: black;
+  border-color: black;
+  border: solid;
+  border-radius: 50px;
+  width: 312px;
+  height: 48px;
+}
+.btn {
+  display: flex;
+  gap: 20;
+}
+li {
+  display: flex;
+  flex-direction: column;
+}
+.agree {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.register {
+  border-radius: 50px;
+  height: 56px;
+  width: 168px;
+  background: #1ed760;
+}
