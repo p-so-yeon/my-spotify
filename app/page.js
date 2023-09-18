@@ -167,7 +167,7 @@ const Signin = () => {
             <label>
               {" "}
               <input type="checkbox"></input>
-              Spotify 마케티 메시지 수신동의(선택사항)
+              Spotify 마케팅 메시지 수신동의(선택사항)
             </label>
             <label>
               {" "}
